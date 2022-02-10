@@ -82,7 +82,7 @@
     "karma-jasmine-html-reporter": "^1.5.3",
     "karma-safari-launcher": "^1.0.0",
     "ng2-mock-component": "^0.2.0",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "protractor": "^5.4.4",
     "rxjs-tslint": "^0.1.8",
     "sass-lint": "^1.13.1",
